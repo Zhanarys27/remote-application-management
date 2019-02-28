@@ -1,4 +1,3 @@
-## remote-control
 
 # Название команды: Lot_of_Dream
 
